@@ -1,0 +1,7 @@
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\bin\Debug\zadanie3 - Koordinat.exe.config
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\bin\Debug\zadanie3 - Koordinat.exe
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\bin\Debug\zadanie3 - Koordinat.pdb
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\obj\Debug\zadanie3 - Koordinat.csprojAssemblyReference.cache
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\obj\Debug\zadanie3 - Koordinat.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\obj\Debug\zadanie3 - Koordinat.exe
+C:\Users\Paxan\source\repos\zadanie3 - Koordinat\zadanie3 - Koordinat\obj\Debug\zadanie3 - Koordinat.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\bin\Debug\Zadane 4.exe.config
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\bin\Debug\Zadane 4.exe
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\bin\Debug\Zadane 4.pdb
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\obj\Debug\Zadane 4.csprojAssemblyReference.cache
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\obj\Debug\Zadane 4.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\obj\Debug\Zadane 4.exe
+C:\Users\Paxan\source\repos\Zadane 4\Zadane 4\obj\Debug\Zadane 4.pdb
