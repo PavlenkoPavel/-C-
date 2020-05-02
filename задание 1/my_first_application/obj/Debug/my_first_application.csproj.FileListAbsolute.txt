@@ -1,0 +1,14 @@
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\bin\Debug\my_first_application.exe.config
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\bin\Debug\my_first_application.exe
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\bin\Debug\my_first_application.pdb
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\obj\Debug\my_first_application.csprojAssemblyReference.cache
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\obj\Debug\my_first_application.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\obj\Debug\my_first_application.exe
+C:\Users\Paxan\Desktop\my_first_application\my_first_application\obj\Debug\my_first_application.pdb
+C:\Users\Paxan\Desktop\задание 1\my_first_application\bin\Debug\Anketa.exe.config
+C:\Users\Paxan\Desktop\задание 1\my_first_application\bin\Debug\Anketa.exe
+C:\Users\Paxan\Desktop\задание 1\my_first_application\bin\Debug\Anketa.pdb
+C:\Users\Paxan\Desktop\задание 1\my_first_application\obj\Debug\my_first_application.csprojAssemblyReference.cache
+C:\Users\Paxan\Desktop\задание 1\my_first_application\obj\Debug\my_first_application.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\Desktop\задание 1\my_first_application\obj\Debug\Anketa.exe
+C:\Users\Paxan\Desktop\задание 1\my_first_application\obj\Debug\Anketa.pdb

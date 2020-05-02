@@ -1,0 +1,14 @@
+C:\Users\Paxan\Desktop\IMT\IMT\bin\Debug\IMT.exe.config
+C:\Users\Paxan\Desktop\IMT\IMT\bin\Debug\IMT.exe
+C:\Users\Paxan\Desktop\IMT\IMT\bin\Debug\IMT.pdb
+C:\Users\Paxan\Desktop\IMT\IMT\obj\Debug\IMT.csprojAssemblyReference.cache
+C:\Users\Paxan\Desktop\IMT\IMT\obj\Debug\IMT.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\Desktop\IMT\IMT\obj\Debug\IMT.exe
+C:\Users\Paxan\Desktop\IMT\IMT\obj\Debug\IMT.pdb
+C:\Users\Paxan\Desktop\Задание 2\IMT\bin\Debug\IMT.exe.config
+C:\Users\Paxan\Desktop\Задание 2\IMT\bin\Debug\IMT.exe
+C:\Users\Paxan\Desktop\Задание 2\IMT\bin\Debug\IMT.pdb
+C:\Users\Paxan\Desktop\Задание 2\IMT\obj\Debug\IMT.csprojAssemblyReference.cache
+C:\Users\Paxan\Desktop\Задание 2\IMT\obj\Debug\IMT.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\Desktop\Задание 2\IMT\obj\Debug\IMT.exe
+C:\Users\Paxan\Desktop\Задание 2\IMT\obj\Debug\IMT.pdb
