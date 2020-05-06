@@ -1,0 +1,7 @@
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\bin\Debug\урок_2.задание_2.exe.config
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\bin\Debug\урок_2.задание_2.exe
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\bin\Debug\урок_2.задание_2.pdb
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\obj\Debug\урок 2. задание 2.csprojAssemblyReference.cache
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\obj\Debug\урок 2. задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\obj\Debug\урок_2.задание_2.exe
+C:\Users\Paxan\source\repos\урок 2. задание 2\урок 2. задание 2\obj\Debug\урок_2.задание_2.pdb
