@@ -1,0 +1,14 @@
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.exe.config
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.exe
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.pdb
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.csprojAssemblyReference.cache
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.exe
+C:\Users\Paxan\source\repos\Урок 2.задание 1 №2\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.pdb
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.exe.config
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.exe
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\bin\Debug\Урок 2.задание 1 №2.pdb
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.csprojAssemblyReference.cache
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.exe
+C:\Users\Paxan\source\repos\Урок 2.задание 1\Урок 2.задание 1 №2\obj\Debug\Урок 2.задание 1 №2.pdb

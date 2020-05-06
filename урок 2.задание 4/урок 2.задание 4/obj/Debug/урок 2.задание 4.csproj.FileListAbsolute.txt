@@ -1,0 +1,6 @@
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\bin\Debug\урок 2.задание 4.exe.config
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\bin\Debug\урок 2.задание 4.exe
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\bin\Debug\урок 2.задание 4.pdb
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\obj\Debug\урок 2.задание 4.csproj.CoreCompileInputs.cache
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\obj\Debug\урок 2.задание 4.exe
+C:\Users\Paxan\source\repos\урок 2.задание 4\урок 2.задание 4\obj\Debug\урок 2.задание 4.pdb
